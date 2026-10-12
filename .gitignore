@@ -1,0 +1,11 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de configuración 
+.env
+
+# Archivos temporales o de prueba
+*.kml
+downloads/
